@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1586203797 source:c:\users\soliz\desktop\objectop\shapes\main.cpp
+	<iostream>
+	"RegularShape.h"
+	"Circle.h"
+	"Triangle.h"
+
+1586201386 c:\users\soliz\desktop\objectop\shapes\include\regularshape.h
+
+1586200896 c:\users\soliz\desktop\objectop\shapes\include\rectangle.h
+	"RegularShape.h"
+
+1586201523 source:c:\users\soliz\desktop\objectop\shapes\src\regularshape.cpp
+	"RegularShape.h"
+	<iostream>
+
+1586203561 c:\users\soliz\desktop\objectop\shapes\include\circle.h
+	"RegularShape.h"
+
+1586203569 source:c:\users\soliz\desktop\objectop\shapes\src\circle.cpp
+	<iostream>
+	"Circle.h"
+	"RegularShape.h"
+
+1586203853 c:\users\soliz\desktop\objectop\shapes\include\triangle.h
+	"RegularShape.h"
+
+1586203873 source:c:\users\soliz\desktop\objectop\shapes\src\triangle.cpp
+	<iostream>
+	"triangle.h"
+	"RegularShape.h"
+
